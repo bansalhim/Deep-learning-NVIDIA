@@ -28,6 +28,5 @@ Both modules are covered under **one combined certificate**.
 
 **Name:** Himanshu Bansal  
 **Roll No:** 102303786  
-**Course:** Data Science Elective Basket (2025–27)  
-**Instructor:** Sukhpal Singh  
+**Course:** Data Science Elective Basket (2025–27)   
 **Deadline:** 1st March 2026  
